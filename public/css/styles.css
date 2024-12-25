@@ -1,0 +1,34 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to bottom, #F8ECD1, #F5C6AA);
+    color: #333;
+  }
+  
+  h1 {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .btn-primary {
+    background-color: #FF6F61;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #D45D50;
+  }
+  
+  .img-fluid {
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+  }
+  
+  .navbar {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+  }
+  
+  .nav-link.active {
+    font-weight: bold;
+    color: #FF6F61 !important;
+  }
+  
